@@ -71,3 +71,5 @@ Consider that your want to start an open-source project in your organization. Pe
 3.Add 2 collaborator
 
 4.Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
+
+![Screenshot 2022-10-10 135257](https://user-images.githubusercontent.com/110589612/194825113-5ade8ec9-957c-4cd8-9e05-addfa06810a1.png)
