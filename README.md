@@ -51,5 +51,8 @@
 
 14.git push origin to main
 
-
 ![Screenshot 2022-10-10 102242](https://user-images.githubusercontent.com/110589612/194805615-14e323e6-2f2f-4cf0-9cff-56abfac63e67.png)
+
+15.git pull 
+
+![Screenshot 2022-10-10 114550](https://user-images.githubusercontent.com/110589612/194807682-ed71d920-6acc-4a05-805e-ab24f3eaa2bb.png)
