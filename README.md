@@ -51,4 +51,5 @@
 
 14.git push origin to main
 
-![push image](../../Screenshot%202022-10-10%20102242.png)
+
+![Screenshot 2022-10-10 102242](https://user-images.githubusercontent.com/110589612/194805615-14e323e6-2f2f-4cf0-9cff-56abfac63e67.png)
