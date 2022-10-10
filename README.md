@@ -51,4 +51,3 @@
 14.git push origin to main
 
 ![](../../Screenshot%202022-10-10%20102242.png)
-
